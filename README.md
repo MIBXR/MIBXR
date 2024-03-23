@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MIBXR</h1>
 <h3 align="center">I'm a student in BUPT.</h3>
 
-[我的个人网站](https://code-docs.choco-xie.xyz/)
+[我的个人网站👉](https://code-docs.choco-xie.xyz/)
 
 - 🔭 I’m currently working on **Bed**
 
