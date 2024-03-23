@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm MIBXR</h1>
-<h3 align="center">I'm a student in BUPT.</h3>
+Hi 👋, I'm MIBXR, a student in BUPT.
 
 [我的个人网站👉](https://code-docs.choco-xie.xyz/)
 
