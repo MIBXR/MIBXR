@@ -1,4 +1,20 @@
-<div align="center">
+<table style="width: 100%;">
+  <tr>
+    <th style="width: 33%; text-align: center;"><a href="https://code-docs.choco-xie.xyz/">我的个人网站👉</a></th>
+    <th style="width: 33%; text-align: center;">Most Used</th>
+    <th style="width: 33%; text-align: center;">Languages and Tools</th>
+  </tr>
+  <tr>
+    <td style="width: 33%; text-align: center;">
+      <img src="https://github.com/MIBXR/MIBXR/assets/44526304/140d4bab-f34e-416b-a772-b010cbea0aec" alt="My Image" width="200"/>
+    </td>
+    <td style="width: 33%; text-align: center;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIBXR&layout=donut-vertical&langs_count=8" alt="Top Langs" width="200"/>
+      </a>
+    </td>
+    <td style="width: 33%; text-align: center;">
+      <div align="center">
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -30,21 +46,7 @@
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-</div>
-
-<table style="width: 100%;">
-  <tr>
-    <th style="width: 50%; text-align: center;"><a href="https://code-docs.choco-xie.xyz/">我的个人网站👉</a></th>
-    <th style="width: 50%; text-align: center;">Languages and Tools</th>
-  </tr>
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github.com/MIBXR/MIBXR/assets/44526304/140d4bab-f34e-416b-a772-b010cbea0aec" alt="My Image" width="200"/>
-    </td>
-    <td style="width: 50%; text-align: center;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIBXR&layout=donut-vertical&langs_count=8" alt="Top Langs" width="200"/>
-      </a>
+      </div>
     </td>
   </tr>
 </table>
