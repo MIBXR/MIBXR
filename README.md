@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIBXR/MIBXR/3d221280b2b3b4c140e77a75c07e9aee55d89693/assets/profile/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIBXR/MIBXR/3d221280b2b3b4c140e77a75c07e9aee55d89693/assets/profile/header-light.svg">
-  <img alt="MIBXR · Code, Algorithms & AI Workflows" src="https://raw.githubusercontent.com/MIBXR/MIBXR/3d221280b2b3b4c140e77a75c07e9aee55d89693/assets/profile/header-light.svg" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIBXR/MIBXR/fd81e2a21b8f4f4be1d6aaba87af8ae91598779d/assets/profile/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIBXR/MIBXR/fd81e2a21b8f4f4be1d6aaba87af8ae91598779d/assets/profile/header-light.svg">
+  <img alt="MIBXR · Code, Algorithms & AI Workflows" src="https://raw.githubusercontent.com/MIBXR/MIBXR/fd81e2a21b8f4f4be1d6aaba87af8ae91598779d/assets/profile/header-light.svg" width="960">
 </picture>
 
 <p align="center"><strong>中文</strong> · <a href="https://github.com/MIBXR/MIBXR/blob/main/README.en.md">English</a> · <a href="https://github.com/MIBXR/MIBXR/blob/main/README.ja.md">日本語</a></p>
