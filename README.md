@@ -4,6 +4,8 @@
   <img alt="MIBXR · Code, Algorithms & AI Workflows" src="https://raw.githubusercontent.com/MIBXR/MIBXR/3d221280b2b3b4c140e77a75c07e9aee55d89693/assets/profile/header-light.svg" width="960">
 </picture>
 
+<p align="center"><strong>中文</strong> · <a href="https://github.com/MIBXR/MIBXR/blob/main/README.en.md">English</a> · <a href="https://github.com/MIBXR/MIBXR/blob/main/README.ja.md">日本語</a></p>
+
 你好，我是 **MIBXR**。关注 **科技与人工智能领域** 和其他 **有意思、可爱** 的玩意，涉猎范围有 **AI Infra、图像算法** 等，也在把与 AI 协作的经验整理成可复用的 **Skills**。
 
 ## 算法和论文
