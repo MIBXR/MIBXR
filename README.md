@@ -17,10 +17,8 @@
 胜负服全身铃鹿与运动服半身铃鹿，两种陪伴方式。各含九种动作、十六方向注视，公开高清素材、创作资料与便携安装包。
 
 <p>
-  <a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">
-    <img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="胜负服全身铃鹿挥手预览" width="140">
-    <img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="运动服半身铃鹿挥手预览" width="140">
-  </a>
+  <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="胜负服全身铃鹿挥手预览" width="140"></a>
+  <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="运动服半身铃鹿挥手预览" width="140"></a>
 </p>
 
 [访问网站 ↗](https://suzuka-pets-gallery.mibxranime.chatgpt.site) · [源码与创作资料](https://github.com/MIBXR/suzuka-pets) · [下载桌宠](https://github.com/MIBXR/suzuka-pets/releases)
@@ -30,10 +28,8 @@
 拉拉队响与兔女郎时的桌面伙伴。各含九种动作和十六方向跟随，配有独立角色展示页、动作剧场与下载安装说明。
 
 <p>
-  <a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">
-    <img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pet/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="拉拉队响挥手预览" width="140">
-    <img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pet/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="兔女郎时比 V 预览" width="140">
-  </a>
+  <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pet/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pet/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="拉拉队响挥手预览" width="140"></a>
+  <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pet/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pet/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="兔女郎时比 V 预览" width="140"></a>
 </p>
 
 [访问网站 ↗](https://blue-archive-desktop-companions.mibxranime.chatgpt.site) · [源码与创作资料](https://github.com/MIBXR/blue-archive-pet) · [下载桌宠](https://github.com/MIBXR/blue-archive-pet/releases)
