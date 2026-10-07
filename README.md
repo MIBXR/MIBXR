@@ -6,6 +6,11 @@
 
 你好，我是 **MIBXR**。写代码，做桌宠，也在把与 AI 协作的经验整理成可复用的 **Skills**。
 
+## 论文
+
+**[“Special Relativity” of Image Aesthetics Assessment: a Preliminary Empirical Perspective](https://dl.acm.org/doi/10.1145/3664647.3681172)**  
+ACM MM 2024 · CCF A 类 · 第一作者（共同一作） · 图像美学评估
+
 ## 桌宠作品
 
 <table>
@@ -33,10 +38,10 @@
 
 | 课程 | 作品 | 课程 | 作品 |
 | --- | --- | --- | --- |
-| [计算机网络](https://github.com/MIBXR/BUPT-ComputerNetworkCourseDesign) | DNS 拦截、中继与缓存 | [移动互联网](https://github.com/MIBXR/BUPT-MobileInternetCourseDesign) | Android 二维码笔记 |
+| **[编译原理](https://github.com/MIBXR/BUPT-CompilersCourseDesign)** | 词法与语法分析器 | **[人工智能](https://github.com/MIBXR/BUPT-AICourseDesign)** | 文本分类与分析 |
+| **[计算机网络](https://github.com/MIBXR/BUPT-ComputerNetworkCourseDesign)** | DNS 拦截、中继与缓存 | [移动互联网](https://github.com/MIBXR/BUPT-MobileInternetCourseDesign) | Android 二维码笔记 |
 | [面向对象 C++](https://github.com/MIBXR/BUPT-CPPCourseDesign) | 宠物小精灵游戏 | [数据结构](https://github.com/MIBXR/BUPT-DataStructureCourseDesign) | 低风险旅行模拟 |
-| [Python](https://github.com/MIBXR/BUPT-PythonCourseDesign) | 期末大作业报告 | [编译原理](https://github.com/MIBXR/BUPT-CompilersCourseDesign) | 词法与语法分析器 |
-| [人工智能](https://github.com/MIBXR/BUPT-AICourseDesign) | 文本分类与分析 | [软件工程](https://github.com/MIBXR/BUPT-SoftwareEngineeringCourseDesign) | 酒店温控与计费系统 |
+| [Python](https://github.com/MIBXR/BUPT-PythonCourseDesign) | 期末大作业报告 | [软件工程](https://github.com/MIBXR/BUPT-SoftwareEngineeringCourseDesign) | 酒店温控与计费系统 |
 | [Java](https://github.com/MIBXR/BUPT-JavaCourseDesign) | 研究生作业、源码与结果 |  |  |
 
 ## 常用语言与工具
@@ -48,4 +53,4 @@
 | 数据与 AI | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-B91C1C?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-CC4C00?style=flat-square&logo=rabbitmq&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-D66B00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C9432C?style=flat-square&logo=pytorch&logoColor=white) |
 | 环境与运维 | ![Linux](https://img.shields.io/badge/Linux-4B5563?style=flat-square&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-D64A19?style=flat-square&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1672AD?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-C74331?style=flat-square&logo=prometheus&logoColor=white) |
 | 开发与调试 | ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-287D3C?style=flat-square&logo=androidstudio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-D9532D?style=flat-square&logo=postman&logoColor=white) |
-| AI Agent | [![ChatGPT](https://img.shields.io/badge/ChatGPT-16836B?style=flat-square)](https://chatgpt.com/) [![Codex](https://img.shields.io/badge/Codex-334155?style=flat-square)](https://chatgpt.com/codex) [![Qoder](https://img.shields.io/badge/Qoder-7357D8?style=flat-square)](https://qoder.com/) |
+| AI Agent | [![ChatGPT](assets/profile/badges/chatgpt.svg)](https://chatgpt.com/) [![Codex](assets/profile/badges/codex.svg)](https://chatgpt.com/codex) [![Qoder](assets/profile/badges/qoder.svg)](https://qoder.com/) |
