@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title description">
+  <title id="title">MIBXR</title>
+  <desc id="description">Code, algorithms, and AI workflows. A dark banner with subtle blue and green window shapes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14212b"/>
+      <stop offset="1" stop-color="#162b2c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8cbcd2"/>
+      <stop offset="1" stop-color="#8fc8ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="180" rx="18" fill="url(#background)"/>
+  <rect x="1" y="1" width="958" height="178" rx="17" fill="none" stroke="#30484d"/>
+  <path d="M650 180C688 119 782 104 851 122S932 161 960 147V180Z" fill="#1b3435"/>
+  <circle cx="869" cy="35" r="37" fill="#1c303d"/>
+  <rect x="40" y="33" width="48" height="4" rx="2" fill="url(#accent)"/>
+  <text x="38" y="103" fill="#e6f0f2" font-family="Segoe UI, Arial, sans-serif" font-size="59" font-weight="700" letter-spacing="1">MIBXR</text>
+  <text x="41" y="137" fill="#a6bdc6" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.1">CODE · ALGORITHMS · AI WORKFLOWS</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="722" y="39" width="168" height="103" rx="12" fill="#1c3035" stroke="#527e83" stroke-width="1.5"/>
+    <path d="M722 64H890" stroke="#36555b"/>
+    <circle cx="738" cy="52" r="3" fill="#79a9be" stroke="none"/>
+    <circle cx="749" cy="52" r="3" fill="#81b09b" stroke="none"/>
+    <circle cx="760" cy="52" r="3" fill="#456462" stroke="none"/>
+    <rect x="738" y="79" width="38" height="46" rx="7" fill="#29463f" stroke="none"/>
+    <path d="M790 84H866M790 97H854M790 110H842" stroke="#507781" stroke-width="4"/>
+    <rect x="678" y="94" width="93" height="57" rx="11" fill="#203d37" stroke="#71a38f" stroke-width="1.5"/>
+    <circle cx="698" cy="122" r="7" fill="#77ad97" stroke="none"/>
+    <path d="M716 117H753M716 127H744" stroke="#648e7e" stroke-width="3"/>
+    <path d="M664 43V53M659 48H669M914 103V117M907 110H921" stroke="#7eabbf" stroke-width="2"/>
+    <circle cx="694" cy="66" r="2.5" fill="#78ab91" stroke="none"/>
+    <circle cx="911" cy="61" r="2.5" fill="#688fa4" stroke="none"/>
+    <circle cx="877" cy="157" r="2" fill="#709f89" stroke="none"/>
+  </g>
+</svg>
