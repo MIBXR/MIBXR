@@ -6,10 +6,10 @@
 
 你好，我是 **MIBXR**。写代码，做桌宠，也在把与 AI 协作的经验整理成可复用的 **Skills**。
 
-## 论文
+## 算法和论文
 
 **[“Special Relativity” of Image Aesthetics Assessment: a Preliminary Empirical Perspective](https://dl.acm.org/doi/10.1145/3664647.3681172)**  
-ACM MM 2024 · CCF A 类 · 第一作者（共同一作） · 图像美学评估
+ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
 ## 桌宠作品
 
