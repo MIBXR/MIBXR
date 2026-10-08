@@ -32,9 +32,28 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 </tr>
 </table>
 
+## 设计参考库
+
+**[Design Atlas · 个人网页设计参考库](https://github.com/MIBXR/design-atlas)**
+
+29 个可交互案例，涵盖产品与平台、游戏/IP、艺术文化与 8 种经典设计语言。保留真实参考、设计约束、可复用 Prompt 和完整代码 Demo；配色、排版、形状与动效可以在设计元素实验室中亲手调整。
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/hand-drawn"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/hand-drawn.jpg" alt="手绘 · 经典设计语言" width="280"></a><br><sub>手绘 · 经典设计语言</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/design-sight"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/design-sight.jpg" alt="21_21 · 艺术与文化" width="280"></a><br><sub>21_21 · 艺术与文化</sub></td>
+</tr>
+</table>
+
+[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/design-atlas) · [设计元素实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+
 ## Skills
 
-**[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)** · [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：从桌宠制作、动画修复到展示网站与 Git 交付。
+**[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
+
+- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md)：检索真实设计案例，围绕需求迭代选型，读取完整 Prompt、设计说明与源码，再适配自己的项目。
+- [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：从桌宠制作、动画修复到展示网站与 Git 交付。
 
 ## 课程作品
 

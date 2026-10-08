@@ -32,9 +32,28 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 </tr>
 </table>
 
+## Web Design Reference
+
+**[Design Atlas · Interactive Web Design Library](https://github.com/MIBXR/design-atlas)**
+
+29 interactive cases spanning product pages, games/IP, arts and culture, and 8 classic design styles. Each includes real references, design constraints, reusable prompts, and complete demo code. Explore color, typography, shapes, and motion in the design elements lab.
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/hand-drawn"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/hand-drawn.jpg" alt="Hand-drawn · Classic Design" width="280"></a><br><sub>Hand-drawn · Classic Design</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/design-sight"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/design-sight.jpg" alt="21_21 · Arts & Culture" width="280"></a><br><sub>21_21 · Arts & Culture</sub></td>
+</tr>
+</table>
+
+[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/design-atlas) · [Design Elements Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent Entry](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+
 ## Skills
 
-**[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)** · [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): From desktop pet creation and animation repair to showcase sites and sharing projects through Git.
+**[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
+
+- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md): Search real design cases, refine candidates around the task, retrieve complete prompts, design context, and source code, then adapt them to your own project.
+- [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): From desktop pet creation and animation repair to showcase sites and sharing projects through Git.
 
 ## Course Projects
 
