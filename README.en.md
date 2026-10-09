@@ -36,7 +36,7 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 
 **[Design Atlas · Interactive Web Design Library](https://github.com/MIBXR/design-atlas)**
 
-34 interactive cases and 129 composable design patterns across products and platforms, games/IP, arts and culture, and 8 classic design styles, including the Palace Museum, Digital Dunhuang, and Arknights: Endfield. Explore real sources, design constraints, reusable prompts, complete demo code, pattern search, and the design elements lab.
+34 interactive cases and 129 composable design patterns across products and platforms, games/IP, arts and culture, and 8 classic design styles, including the Palace Museum, Digital Dunhuang, and Arknights: Endfield. Explore real sources, design constraints, reusable prompts, complete demo code, pattern search, and the design elements lab. Cases and patterns share favorites and a single import/export backup; the document center brings research, prompts, and reproduction notes together.
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 </tr>
 </table>
 
-[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/design-atlas) · [Design Patterns](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#patterns) · [Design Elements Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent Entry](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/design-atlas) · [Pattern Library](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [Design Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Document Center](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent Entry](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 

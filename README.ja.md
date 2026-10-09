@@ -36,7 +36,7 @@ ACM MM 2024 · CCF A類 · 筆頭著者 · 画像の美的評価
 
 **[Design Atlas · 体験できる Web デザイン参考集](https://github.com/MIBXR/design-atlas)**
 
-34 の操作できる事例と 129 の組み合わせ可能なデザインアイデア。製品・プラットフォーム、ゲーム/IP、芸術・文化、8 種類の定番デザインスタイルを扱い、故宮・デジタル敦煌・『アークナイツ：エンドフィールド』も収録。実際の出典、デザインの制約、再利用できるプロンプト、デモの全ソースコードに加え、アイデア検索・事例を横断した組み合わせ・デザイン要素の実験室を利用できます。
+34 の操作できる事例と 129 の組み合わせ可能なデザインアイデア。製品・プラットフォーム、ゲーム/IP、芸術・文化、8 種類の定番デザインスタイルを扱い、故宮・デジタル敦煌・『アークナイツ：エンドフィールド』も収録。実際の出典、デザインの制約、再利用できるプロンプト、デモの全ソースコードに加え、アイデア検索・事例を横断した組み合わせ・デザイン要素の実験室を利用できます。事例とアイデアのお気に入りは共通のファイルでインポート・エクスポートでき、ドキュメントセンターで調査・プロンプト・再現資料をまとめて閲覧できます。
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ ACM MM 2024 · CCF A類 · 筆頭著者 · 画像の美的評価
 </tr>
 </table>
 
-[サイトを体験 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/design-atlas) · [デザインアイデア](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#patterns) · [デザイン要素の実験室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[サイトを体験 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/design-atlas) · [アイデア集](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [デザイン実験室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [ドキュメントセンター](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
