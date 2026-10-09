@@ -36,23 +36,23 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 
 **[Design Atlas · Interactive Web Design Library](https://github.com/MIBXR/design-atlas)**
 
-29 interactive cases spanning product pages, games/IP, arts and culture, and 8 classic design styles. Each includes real references, design constraints, reusable prompts, and complete demo code. Explore color, typography, shapes, and motion in the design elements lab.
+34 interactive cases and 129 composable design patterns across products and platforms, games/IP, arts and culture, and 8 classic design styles, including the Palace Museum, Digital Dunhuang, and Arknights: Endfield. Explore real sources, design constraints, reusable prompts, complete demo code, pattern search, and the design elements lab.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/hand-drawn"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/hand-drawn.jpg" alt="Hand-drawn · Classic Design" width="280"></a><br><sub>Hand-drawn · Classic Design</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/design-sight"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/design-sight.jpg" alt="21_21 · Arts & Culture" width="280"></a><br><sub>21_21 · Arts & Culture</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
 </tr>
 </table>
 
-[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/design-atlas) · [Design Elements Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent Entry](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/design-atlas) · [Design Patterns](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#patterns) · [Design Elements Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent Entry](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
-- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md): Search real design cases, refine candidates around the task, retrieve complete prompts, design context, and source code, then adapt them to your own project.
+- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md): Search real design cases and composable patterns, refine candidates around the task, retrieve complete prompts, design context, and source code, then adapt them to your own project.
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): From desktop pet creation and animation repair to showcase sites and sharing projects through Git.
 
 ## Course Projects

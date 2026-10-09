@@ -36,23 +36,23 @@ ACM MM 2024 · CCF A類 · 筆頭著者 · 画像の美的評価
 
 **[Design Atlas · 体験できる Web デザイン参考集](https://github.com/MIBXR/design-atlas)**
 
-製品・プラットフォーム、ゲーム/IP、芸術・文化、8 種類の定番デザインスタイルを含む、29 の操作できる事例。実際の参考サイト、デザインの制約、再利用できるプロンプト、デモの全ソースコードを収録。デザイン要素の実験室では、配色・組版・形・動きを実際に変更できます。
+34 の操作できる事例と 129 の組み合わせ可能なデザインアイデア。製品・プラットフォーム、ゲーム/IP、芸術・文化、8 種類の定番デザインスタイルを扱い、故宮・デジタル敦煌・『アークナイツ：エンドフィールド』も収録。実際の出典、デザインの制約、再利用できるプロンプト、デモの全ソースコードに加え、アイデア検索・事例を横断した組み合わせ・デザイン要素の実験室を利用できます。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/hand-drawn"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/hand-drawn.jpg" alt="手描き · 定番デザイン" width="280"></a><br><sub>手描き · 定番デザイン</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/design-sight"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/design-sight.jpg" alt="21_21 · 芸術・文化" width="280"></a><br><sub>21_21 · 芸術・文化</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/endfield-industrial.jpg" alt="エンドフィールド · 工業デザイン" width="280"></a><br><sub>エンドフィールド · 工業デザイン</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/digital-dunhuang.jpg" alt="デジタル敦煌 · 文化遺産" width="280"></a><br><sub>デジタル敦煌 · 文化遺産</sub></td>
 </tr>
 </table>
 
-[サイトを体験 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/design-atlas) · [デザイン要素の実験室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[サイトを体験 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/design-atlas) · [デザインアイデア](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#patterns) · [デザイン要素の実験室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
-- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md)：実際のデザイン事例を検索し、要件に合わせて候補を絞り込み、プロンプト・デザインの説明・ソースコードを取得して、自分のプロジェクトに応用。
+- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md)：実際のデザイン事例と組み合わせ可能なアイデアを検索し、要件に合わせて候補を絞り込み、プロンプト・デザインの説明・ソースコードを取得して、自分のプロジェクトに応用。
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：デスクトップペットの制作・アニメーション修復から、紹介サイトと Git での成果物管理まで。
 
 ## 授業プロジェクト

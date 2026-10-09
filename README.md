@@ -36,23 +36,23 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
 **[Design Atlas · 个人网页设计参考库](https://github.com/MIBXR/design-atlas)**
 
-29 个可交互案例，涵盖产品与平台、游戏/IP、艺术文化与 8 种经典设计语言。保留真实参考、设计约束、可复用 Prompt 和完整代码 Demo；配色、排版、形状与动效可以在设计元素实验室中亲手调整。
+34 个可交互案例与 129 个可组合设计巧思，涵盖产品与平台、游戏/IP、艺术文化与 8 种经典设计语言，包括故宫、数字敦煌与《明日方舟：终末地》。收录真实来源、设计约束、可复用 Prompt 和完整代码 Demo；支持巧思检索、跨案例组合与设计元素实验。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/hand-drawn"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/hand-drawn.jpg" alt="手绘 · 经典设计语言" width="280"></a><br><sub>手绘 · 经典设计语言</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/#style/design-sight"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/2ada24a6f092f8d1541a30af22ccfbacc9e299d3/previews/design-sight.jpg" alt="21_21 · 艺术与文化" width="280"></a><br><sub>21_21 · 艺术与文化</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
 </tr>
 </table>
 
-[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/design-atlas) · [设计元素实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/design-atlas) · [设计巧思](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#patterns) · [设计元素实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
-- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md)：检索真实设计案例，围绕需求迭代选型，读取完整 Prompt、设计说明与源码，再适配自己的项目。
+- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md)：检索真实设计案例与可组合巧思，围绕需求迭代选型，读取完整 Prompt、设计说明与源码，再适配自己的项目。
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：从桌宠制作、动画修复到展示网站与 Git 交付。
 
 ## 课程作品
