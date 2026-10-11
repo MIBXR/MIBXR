@@ -38,8 +38,6 @@ ACM MM 2024 · CCF A類 · 筆頭著者 · 画像の美的評価
 
 36 の操作できる事例と 135 の組み合わせ可能なデザインアイデア。製品・プラットフォーム、ゲーム/IP、芸術・文化、8 種類の定番デザインスタイルを扱い、故宮・デジタル敦煌・『アークナイツ：エンドフィールド』も収録。実際の出典、デザインの制約、再利用できるプロンプト、デモの全ソースコードに加え、アイデア検索・事例を横断した組み合わせ・デザイン要素の実験室を利用できます。事例とアイデアのお気に入りは共通のファイルでインポート・エクスポートでき、ドキュメントセンターで調査・プロンプト・再現資料をまとめて閲覧できます。
 
-[『ゼンレスゾーンゼロ』](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/zenless-zone-zero) は公式トップページの全6セクションを再現し、個別ページは公式サイトへリンク。[DeepSeek Harness](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/deepseek-harness) は製品ページ全体とコードで描画するデモアニメーションを収録。[ライン生命の端末事例](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/rhine-lab) では、第三者による [RhineLabUI](https://github.com/MIBXR/RhineLabUI) の実装を参考として紹介しています。
-
 <table>
 <tr>
 <td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>

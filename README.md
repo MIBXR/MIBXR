@@ -38,8 +38,6 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
 36 个可交互案例与 135 个可组合设计巧思，涵盖产品与平台、游戏/IP、艺术文化与 8 种经典设计语言，包括故宫、数字敦煌与《明日方舟：终末地》。收录真实来源、设计约束、可复用 Prompt 和完整代码 Demo；支持巧思检索、跨案例组合与设计元素实验。案例与巧思可统一收藏，并通过同一个文件导入导出；文档中心汇总研究、Prompt 与复现资料。
 
-[《绝区零》](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/zenless-zone-zero)覆盖官网六章首页，独立子页链接官网；[DeepSeek Harness](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/deepseek-harness)保留完整产品页与代码驱动的动态演示；[莱茵终端案例](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/rhine-lab)附第三方 [RhineLabUI](https://github.com/MIBXR/RhineLabUI) 代码实现参考。
-
 <table>
 <tr>
 <td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
