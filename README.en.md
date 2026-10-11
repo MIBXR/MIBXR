@@ -38,8 +38,6 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 
 36 interactive cases and 135 composable design patterns across products and platforms, games/IP, arts and culture, and 8 classic design styles, including the Palace Museum, Digital Dunhuang, and Arknights: Endfield. Explore real sources, design constraints, reusable prompts, complete demo code, pattern search, and the design elements lab. Cases and patterns share favorites and a single import/export backup; the document center brings research, prompts, and reproduction notes together.
 
-[Zenless Zone Zero](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/zenless-zone-zero) covers all six homepage sections, with standalone pages linked to the official site. [DeepSeek Harness](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/deepseek-harness) includes the full product page and code-driven animated demos. The [Rhine terminal case](https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/rhine-lab) links to the third-party [RhineLabUI](https://github.com/MIBXR/RhineLabUI) implementation.
-
 <table>
 <tr>
 <td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
