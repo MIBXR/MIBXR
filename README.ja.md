@@ -35,7 +35,7 @@ ACM MM 2024 · CCF A類 · 筆頭著者 · 画像の美的評価
 <h3 align="center">「いい子」・若葉睦のピクセルペット</h3>
 <p align="center">無表情、でもキュウリのことなら大忙し。9種類のアニメーション、16方向の視線、操作できるピクセルデスクトップを用意。</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="キュウリを振って挨拶する若葉睦。「好女孩？」の吹き出し付き" width="192"></a></p>
-<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">サイト（所有者のみ）</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">v1.0 をダウンロード</a></p>
+<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">サイト</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">v1.0 をダウンロード</a></p>
 </td>
 </tr>
 </table>
