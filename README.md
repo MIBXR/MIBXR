@@ -30,6 +30,14 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 <p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">源码与素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">下载</a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+<h3 align="center">好女孩 · 若叶睦像素桌宠</h3>
+<p align="center">面无表情，瓜事很多。黄瓜主题像素小睦，含九种动作、十六向注视与可试玩的像素桌面。</p>
+<p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="若叶睦举瓜招手，气泡写着好女孩？" width="192"></a></p>
+<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">网站（仅站主）</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">源码与素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">下载 v1.0</a></p>
+</td>
+</tr>
 </table>
 
 ## 设计参考库
