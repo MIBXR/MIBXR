@@ -30,6 +30,14 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 <p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">Downloads</a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+<h3 align="center">Good Girl · Wakaba Mutsumi Pixel Pet</h3>
+<p align="center">A deadpan, cucumber-loving pixel Mutsumi with nine animations, sixteen gaze directions, and an interactive pixel desktop.</p>
+<p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="Mutsumi waves a cucumber beside the Good Girl? speech bubble" width="192"></a></p>
+<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">Website (owner-only)</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">Download v1.0</a></p>
+</td>
+</tr>
 </table>
 
 ## Web Design Reference
