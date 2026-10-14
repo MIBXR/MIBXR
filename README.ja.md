@@ -17,21 +17,19 @@ ACM MM 2024 · CCF A類 · 筆頭著者 · 画像の美的評価
 
 <table>
 <tr>
-<td width="500" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">スズカの小さな世界 · Suzuka Pets</h3>
 <p align="center">勝負服の全身サイレンススズカとジャージ姿の上半身サイレンススズカ。それぞれ9種類のアニメーションと16方向の視線に対応。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="勝負服の全身サイレンススズカが手を振るプレビュー" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="ジャージ姿の上半身サイレンススズカが手を振るプレビュー" width="110"></a></p>
 <p align="center"><a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">サイト ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">ダウンロード</a></p>
 </td>
-<td width="500" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">ヒビキとトキ · Blue Archive デスクトップペット集</h3>
 <p align="center">チアリーダー姿の猫塚ヒビキとバニー姿の飛鳥馬トキ。それぞれ9種類のアニメーションと16方向の視線追従に対応し、キャラクター別ページも用意。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="チアリーダー姿の猫塚ヒビキが手を振るプレビュー" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="バニー姿の飛鳥馬トキがピースするプレビュー" width="110"></a></p>
 <p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">サイト ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">ダウンロード</a></p>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">「いい子」・若葉睦のピクセルペット</h3>
 <p align="center">無表情、でもキュウリのことなら大忙し。9種類のアニメーション、16方向の視線、操作できるピクセルデスクトップを用意。</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="キュウリを振って挨拶する若葉睦。「好女孩？」の吹き出し付き" width="192"></a></p>

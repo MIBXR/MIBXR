@@ -17,21 +17,19 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 
 <table>
 <tr>
-<td width="500" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">Suzuka's Little World · Suzuka Pets</h3>
 <p align="center">Full-body Suzuka in her racing outfit and half-body Suzuka in a tracksuit, each with nine animations and 16-direction gaze tracking.</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="Waving preview of full-body Suzuka in her racing outfit" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="Waving preview of half-body Suzuka in a tracksuit" width="110"></a></p>
 <p align="center"><a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">Downloads</a></p>
 </td>
-<td width="500" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">Hibiki & Toki · Blue Archive Pet Collection</h3>
 <p align="center">Cheerleader Hibiki and Bunny Toki, each with nine animations, 16-direction gaze tracking, and a dedicated character page.</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="Waving preview of Cheerleader Hibiki" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="V-sign preview of Bunny Toki" width="110"></a></p>
 <p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">Downloads</a></p>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">Good Girl · Wakaba Mutsumi Pixel Pet</h3>
 <p align="center">A deadpan, cucumber-loving pixel Mutsumi with nine animations, sixteen gaze directions, and an interactive pixel desktop.</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="Mutsumi waves a cucumber beside the Good Girl? speech bubble" width="192"></a></p>
