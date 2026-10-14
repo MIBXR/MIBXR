@@ -25,13 +25,13 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 </td>
 <td width="33%" valign="top" align="center">
 <h3 align="center">响与时<br>Blue Archive 桌宠收藏</h3>
-<p align="center">拉拉队响与兔女郎时，附角色页<br>九种动作，十六方向注视。</p>
+<p align="center">拉拉队响与兔女郎时，附专页<br>九种动作，十六方向注视。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="拉拉队响挥手预览" width="110"></a><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="兔女郎时比 V 预览" width="110"></a></p>
 <p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">源码与素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">下载</a></p>
 </td>
 <td width="33%" valign="top" align="center">
 <h3 align="center">好女孩<br>若叶睦像素桌宠</h3>
-<p align="center">黄瓜主题像素小睦，可试玩桌面<br>九种动作，十六方向注视。</p>
+<p align="center">黄瓜主题像素小睦，可玩桌面<br>九种动作，十六方向注视。</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="若叶睦举瓜招手，气泡写着好女孩？" width="110"></a></p>
 <p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">网站</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">源码与素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">下载 v1.0</a></p>
 </td>
