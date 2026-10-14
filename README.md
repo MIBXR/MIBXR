@@ -17,21 +17,19 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
 <table>
 <tr>
-<td width="500" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">铃鹿的小小世界 · Suzuka Pets</h3>
 <p align="center">胜负服全身铃鹿与运动服半身铃鹿，各含九种动作与十六方向注视。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="胜负服全身铃鹿挥手预览" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="运动服半身铃鹿挥手预览" width="110"></a></p>
 <p align="center"><a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">源码与素材</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">下载</a></p>
 </td>
-<td width="500" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">响与时 · Blue Archive 桌宠收藏</h3>
 <p align="center">拉拉队响与兔女郎时，各含九种动作与十六方向跟随，配有独立角色页。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="拉拉队响挥手预览" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="兔女郎时比 V 预览" width="110"></a></p>
 <p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">源码与素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">下载</a></p>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 <h3 align="center">好女孩 · 若叶睦像素桌宠</h3>
 <p align="center">面无表情，瓜事很多。黄瓜主题像素小睦，含九种动作、十六向注视与可试玩的像素桌面。</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="若叶睦举瓜招手，气泡写着好女孩？" width="192"></a></p>
