@@ -14,10 +14,10 @@
 ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
 **[ELTA: An Enhancer against Long-Tail for Aesthetics-oriented Models](https://proceedings.mlr.press/v235/liu24w.html)**<br>
-ICML 2024 · 第四作者 · 图像美学评估
+ICML 2024 · CCF A 类 · 共同作者 · 图像美学评估
 
 **[Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks](https://ijcai.org/proceedings/2022/132)**<br>
-IJCAI 2022 · 第三作者 · 图像美学评估
+IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 
 ## 桌宠作品
 
