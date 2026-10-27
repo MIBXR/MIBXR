@@ -13,6 +13,12 @@
 **[“Special Relativity” of Image Aesthetics Assessment: a Preliminary Empirical Perspective](https://dl.acm.org/doi/10.1145/3664647.3681172)**  
 ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
+**[ELTA: An Enhancer against Long-Tail for Aesthetics-oriented Models](https://proceedings.mlr.press/v235/liu24w.html)**<br>
+ICML 2024 · 第四作者 · 图像美学评估
+
+**[Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks](https://ijcai.org/proceedings/2022/132)**<br>
+IJCAI 2022 · 第三作者 · 图像美学评估
+
 ## 桌宠作品
 
 <table>

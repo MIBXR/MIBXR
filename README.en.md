@@ -13,6 +13,12 @@ Hi, I'm **MIBXR**. I explore **technology and AI**, along with **interesting, cu
 **[“Special Relativity” of Image Aesthetics Assessment: a Preliminary Empirical Perspective](https://dl.acm.org/doi/10.1145/3664647.3681172)**  
 ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 
+**[ELTA: An Enhancer against Long-Tail for Aesthetics-oriented Models](https://proceedings.mlr.press/v235/liu24w.html)**<br>
+ICML 2024 · Fourth author · Image aesthetics assessment
+
+**[Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks](https://ijcai.org/proceedings/2022/132)**<br>
+IJCAI 2022 · Third author · Image aesthetics assessment
+
 ## Desktop Pets
 
 <table>
