@@ -38,28 +38,44 @@ ACM MM 2024 · CCF A · First author · Image aesthetics assessment
 </tr>
 </table>
 
-## Web Design Reference
+## Design References
 
-**[Design Atlas · Interactive Web Design Library](https://github.com/MIBXR/design-atlas)**
+**[Web Atlas · Web Design Reference Library](https://github.com/MIBXR/web-atlas)**
 
-36 interactive cases and 135 composable design patterns across products and platforms, games/IP, arts and culture, and 8 classic design styles, including the Palace Museum, Digital Dunhuang, and Arknights: Endfield. Explore real sources, design constraints, reusable prompts, complete demo code, pattern search, and the design elements lab. Cases and patterns share favorites and a single import/export backup; the document center brings research, prompts, and reproduction notes together.
+38 cases from real websites and classic styles, 138 composable design patterns, and 9 content materials, spanning brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo; patterns combine across cases, and materials such as components, fonts, and shaders can be tried before you take them.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
 </tr>
 </table>
 
-[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/design-atlas) · [Pattern Library](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [Design Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Document Center](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent Entry](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas) · [Pattern Library](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [Materials](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Document Center](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent Workflow](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+
+**[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas)**
+
+Timeline-driven films, interactive consoles, and showcase stages: 3 cases, 17 patterns, and 2 resources that break down camera, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that render frame by frame to video.
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/map-pilgrimage.jpg" alt="Map Pilgrimage · Travel Film" width="280"></a><br><sub>Map Pilgrimage · Travel Film</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/archive-os.jpg" alt="Rhine Lab · Archive Terminal" width="280"></a><br><sub>Rhine Lab · Archive Terminal</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/keeling-curve"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/keeling-curve.jpg" alt="Keeling Curve · Data Short" width="280"></a><br><sub>Keeling Curve · Data Short</sub></td>
+</tr>
+</table>
+
+[Explore the Website ↗](https://motion-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/motion-atlas) · [Pattern Library](https://motion-atlas.mibxranime.chatgpt.site/patterns.html) · [Resources](https://motion-atlas.mibxranime.chatgpt.site/resources.html) · [Rhythm Lab](https://motion-atlas.mibxranime.chatgpt.site/lab.html) · [Document Center](https://motion-atlas.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://motion-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
-- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md): Search real design cases and composable patterns, refine candidates around the task, retrieve complete prompts, design context, and source code, then adapt them to your own project.
+- [web-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/web-atlas/SKILL.md): Work out what a website needs, pick and combine cases, patterns, and materials from Web Atlas, compare distinct directions, then build the page from the retrieved source.
+- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md): Shape openers, promos, data shorts, and interactive consoles with Motion Atlas, compare directions as keyframe strips, then build and render frame by frame.
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): From desktop pet creation and animation repair to showcase sites and sharing projects through Git.
+- [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md): Find agent settings that invite over-engineering, and after development, find what a change added beyond the plan.
 
 ## Course Projects
 

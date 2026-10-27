@@ -40,26 +40,42 @@ ACM MM 2024 · CCF A 类 · 第一作者 · 图像美学评估
 
 ## 设计参考库
 
-**[Design Atlas · 个人网页设计参考库](https://github.com/MIBXR/design-atlas)**
+**[Web Atlas · 网页设计参考库](https://github.com/MIBXR/web-atlas)**
 
-36 个可交互案例与 135 个可组合设计巧思，涵盖产品与平台、游戏/IP、艺术文化与 8 种经典设计语言。收录真实来源、设计约束、可复用 Prompt 和完整代码 Demo；支持巧思检索、跨案例组合与设计元素实验。案例与巧思可统一收藏，并通过同一个文件导入导出；文档中心汇总研究、Prompt 与复现资料。
+38 个真实网站与经典风格案例、138 个可组合设计巧思与 9 项内容素材，涵盖品牌与文化研究、8 种经典设计语言和示范作品，覆盖版式、交互、页面动效与声音。每个条目收录真实来源、设计约束、可复用 Prompt 和可交互 Demo；巧思可跨案例组合，组件、字体、Shader 等素材可以先试用再取材。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/design-atlas/1ae149decb35fe5e24d14473ba938f9f8e4101ab/previews/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
 </tr>
 </table>
 
-[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/design-atlas) · [巧思库](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [设计实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [文档中心](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent 入口](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas) · [巧思库](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [内容素材库](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [设计实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [文档中心](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent 工作流](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+
+**[Motion Atlas · 影像与操作台参考库](https://github.com/MIBXR/motion-atlas)**
+
+收录按时间线播放的影像视频、交互操作台与展示台：3 个案例、17 个巧思与 2 个资源，拆解镜头、节拍、转场与声音，附节拍表、可复用 Prompt 和可逐帧渲染成视频的 Demo。
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/keeling-curve"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/keeling-curve.jpg" alt="基林曲线 · 数据短片" width="280"></a><br><sub>基林曲线 · 数据短片</sub></td>
+</tr>
+</table>
+
+[在线体验 ↗](https://motion-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/motion-atlas) · [巧思库](https://motion-atlas.mibxranime.chatgpt.site/patterns.html) · [资源库](https://motion-atlas.mibxranime.chatgpt.site/resources.html) · [节奏实验室](https://motion-atlas.mibxranime.chatgpt.site/lab.html) · [文档中心](https://motion-atlas.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://motion-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
-- [design-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/design-atlas/SKILL.md)：检索真实设计案例与可组合巧思，围绕需求迭代选型，读取完整 Prompt、设计说明与源码，再适配自己的项目。
+- [web-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/web-atlas/SKILL.md)：剖析网站需求，从 Web Atlas 选择并组合案例、巧思与素材，给出有差异的对照方案，取得源码后实现页面。
+- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md)：为片头、宣传片、数据短片和交互操作台剖析需求，从 Motion Atlas 取材，用关键帧条对照方向，实现后逐帧出片。
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：从桌宠制作、动画修复到展示网站与 Git 交付。
+- [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md)：找出 Agent 配置里诱发过度设计的写法，开发完成后找出改动里超出计划的部分。
 
 ## 课程作品
 
