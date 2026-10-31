@@ -52,27 +52,27 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1a3ab67d23f0dec777c3acaeed1689c18ee01391/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1a3ab67d23f0dec777c3acaeed1689c18ee01391/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1a3ab67d23f0dec777c3acaeed1689c18ee01391/previews/cases/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
 </tr>
 </table>
 
-[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas) · [巧思库](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [内容素材库](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [设计实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [文档中心](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent 工作流](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas) · [巧思库](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [素材库](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [设计实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/lab.html) · [文档中心](https://mibxr-design-atlas.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
 
 **[Motion Atlas · 影像与操作台参考库](https://github.com/MIBXR/motion-atlas)**
 
-收录按时间线播放的影像视频、交互操作台与展示台：3 个案例、17 个巧思与 2 个资源，拆解镜头、节拍、转场与声音，附节拍表、可复用 Prompt 和可逐帧渲染成视频的 Demo。
+收录按时间线播放的影像视频、交互操作台与展示台：19 个案例、89 个巧思与 4 个素材，拆解镜头、节拍、转场与声音，附节拍表、可复用 Prompt 和可逐帧渲染成视频的 Demo。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/keeling-curve"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/keeling-curve.jpg" alt="基林曲线 · 数据短片" width="280"></a><br><sub>基林曲线 · 数据短片</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/bf1b03e63495ba20abe9be5fe4de9350dd55b202/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/bf1b03e63495ba20abe9be5fe4de9350dd55b202/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/ink-press"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/bf1b03e63495ba20abe9be5fe4de9350dd55b202/previews/cases/ink-press.jpg" alt="Ink Press · 纸墨宣传片" width="280"></a><br><sub>Ink Press · 纸墨宣传片</sub></td>
 </tr>
 </table>
 
-[在线体验 ↗](https://motion-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/motion-atlas) · [巧思库](https://motion-atlas.mibxranime.chatgpt.site/patterns.html) · [资源库](https://motion-atlas.mibxranime.chatgpt.site/resources.html) · [节奏实验室](https://motion-atlas.mibxranime.chatgpt.site/lab.html) · [文档中心](https://motion-atlas.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://motion-atlas.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://motion-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/motion-atlas) · [巧思库](https://motion-atlas.mibxranime.chatgpt.site/patterns.html) · [素材库](https://motion-atlas.mibxranime.chatgpt.site/materials.html) · [节奏实验室](https://motion-atlas.mibxranime.chatgpt.site/lab.html) · [文档中心](https://motion-atlas.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://motion-atlas.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
