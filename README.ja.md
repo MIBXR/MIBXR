@@ -48,13 +48,13 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 
 **[Web Atlas · Web デザイン参考集](https://github.com/MIBXR/web-atlas)**
 
-実在のサイトと定番スタイルの事例 38 件、組み合わせ可能なデザインアイデア 138 件、コンテンツ素材 9 件。ブランド・文化の研究、8 種類の定番デザイン言語、作例を収録し、レイアウト・インタラクション・ページのモーション・サウンドを扱います。各項目に実際の出典、デザインの制約、再利用できるプロンプト、操作できるデモを収め、アイデアは事例を横断して組み合わせられ、コンポーネント・フォント・シェーダーなどの素材は試してから取り込めます。
+実在のサイトと定番スタイルの事例 39 件、組み合わせ可能なデザインアイデア 142 件、コンテンツ素材 9 件。ブランド・文化の研究、8 種類の定番デザイン言語、作例を収録し、レイアウト・インタラクション・ページのモーション・サウンドを扱います。各項目に実際の出典、デザインの制約、再利用できるプロンプト、操作できるデモを収め、アイデアは事例を横断して組み合わせられ、コンポーネント・フォント・シェーダーなどの素材は試してから取り込めます。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/endfield-industrial.jpg" alt="エンドフィールド · 工業アーカイブ" width="280"></a><br><sub>エンドフィールド · 工業アーカイブ</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/digital-dunhuang.jpg" alt="デジタル敦煌 · 文化遺産" width="280"></a><br><sub>デジタル敦煌 · 文化遺産</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="エンドフィールド · 工業アーカイブ" width="280"></a><br><sub>エンドフィールド · 工業アーカイブ</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="デジタル敦煌 · 文化遺産" width="280"></a><br><sub>デジタル敦煌 · 文化遺産</sub></td>
 </tr>
 </table>
 
@@ -62,13 +62,13 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 
 **[Motion Atlas · 映像とコンソールの参考集](https://github.com/MIBXR/motion-atlas)**
 
-タイムラインで再生される映像、インタラクティブなコンソールと展示台を収録。事例 3 件、アイデア 17 件、リソース 2 件で、カメラ・ビート・トランジション・サウンドを分解し、ビートシート、再利用できるプロンプト、1 コマずつ動画に書き出せるデモを添えています。
+タイムラインで再生される映像、インタラクティブなコンソールと展示台を収録。事例 68 件、アイデア 171 件、リソース 5 件を 7 つの画面スタイルで整理し、うち 50 件は lemo-opuscar のコード製映像スタイルを再現したものです。カメラ・ビート・トランジション・サウンドを分解し、ビートシート、再利用できるプロンプト、1 コマずつ動画に書き出せるデモを添えています。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/map-pilgrimage.jpg" alt="地図巡礼 · 旅の映像" width="280"></a><br><sub>地図巡礼 · 旅の映像</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/archive-os.jpg" alt="ライン生命 · アーカイブ端末" width="280"></a><br><sub>ライン生命 · アーカイブ端末</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/keeling-curve"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/keeling-curve.jpg" alt="キーリング曲線 · データ短編" width="280"></a><br><sub>キーリング曲線 · データ短編</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/map-pilgrimage.jpg" alt="地図巡礼 · 旅の映像" width="280"></a><br><sub>地図巡礼 · 旅の映像</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/archive-os.jpg" alt="ライン生命 · アーカイブ端末" width="280"></a><br><sub>ライン生命 · アーカイブ端末</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/lemo-watercolor.jpg" alt="雨を追って · 水彩ブラシ" width="280"></a><br><sub>雨を追って · 水彩ブラシ</sub></td>
 </tr>
 </table>
 
@@ -79,7 +79,7 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
 - [web-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/web-atlas/SKILL.md)：サイトの要件を掘り下げ、Web Atlas から事例・アイデア・素材を選んで組み合わせ、方向性の異なる案を比べてから、取得したソースでページを実装。
-- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md)：オープニング、プロモーション映像、データ短編、インタラクティブなコンソールを Motion Atlas から組み立て、キーフレーム列で方向性を比べ、実装後に 1 コマずつ書き出し。
+- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md)：オープニング、プロモーション映像、データ短編、インタラクティブなコンソールを Motion Atlas から画面スタイル・用途・描画技術で選んで組み立て、キーフレーム列で方向性を比べ、実装後に 1 コマずつ書き出し。
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：デスクトップペットの制作・アニメーション修復から、紹介サイトと Git での成果物管理まで。
 - [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md)：過剰設計を招く Agent の設定を見つけ、開発後には計画を超えた変更を洗い出し。
 
