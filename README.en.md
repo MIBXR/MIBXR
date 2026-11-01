@@ -48,13 +48,13 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 **[Web Atlas · Web Design Reference Library](https://github.com/MIBXR/web-atlas)**
 
-38 cases from real websites and classic styles, 138 composable design patterns, and 9 content materials, spanning brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo; patterns combine across cases, and materials such as components, fonts, and shaders can be tried before you take them.
+39 cases from real websites and classic styles, 142 composable design patterns, and 9 content materials, spanning brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo; patterns combine across cases, and materials such as components, fonts, and shaders can be tried before you take them.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1783b02862772499f6e5cd061e16da3766763e22/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
 </tr>
 </table>
 
@@ -62,13 +62,13 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 **[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas)**
 
-Timeline-driven films, interactive consoles, and showcase stages: 3 cases, 17 patterns, and 2 resources that break down camera, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that render frame by frame to video.
+Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 patterns, and 5 resources, organized into 7 visual styles, including 50 code-made film styles replicated from lemo-opuscar. They break down camera, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that render frame by frame to video.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/map-pilgrimage.jpg" alt="Map Pilgrimage · Travel Film" width="280"></a><br><sub>Map Pilgrimage · Travel Film</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/archive-os.jpg" alt="Rhine Lab · Archive Terminal" width="280"></a><br><sub>Rhine Lab · Archive Terminal</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/keeling-curve"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/6a312a683cb80a53a552410964c69c65631e735a/previews/cases/keeling-curve.jpg" alt="Keeling Curve · Data Short" width="280"></a><br><sub>Keeling Curve · Data Short</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/map-pilgrimage.jpg" alt="Map Pilgrimage · Travel Film" width="280"></a><br><sub>Map Pilgrimage · Travel Film</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/archive-os.jpg" alt="Rhine Lab · Archive Terminal" width="280"></a><br><sub>Rhine Lab · Archive Terminal</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/lemo-watercolor.jpg" alt="Follow the Rain · Watercolor Brush" width="280"></a><br><sub>Follow the Rain · Watercolor Brush</sub></td>
 </tr>
 </table>
 
@@ -79,7 +79,7 @@ Timeline-driven films, interactive consoles, and showcase stages: 3 cases, 17 pa
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
 - [web-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/web-atlas/SKILL.md): Work out what a website needs, pick and combine cases, patterns, and materials from Web Atlas, compare distinct directions, then build the page from the retrieved source.
-- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md): Shape openers, promos, data shorts, and interactive consoles with Motion Atlas, compare directions as keyframe strips, then build and render frame by frame.
+- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md): Shape openers, promos, data shorts, and interactive consoles with Motion Atlas, searchable by visual style, purpose, and rendering tech; compare directions as keyframe strips, then build and render frame by frame.
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): From desktop pet creation and animation repair to showcase sites and sharing projects through Git.
 - [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md): Find agent settings that invite over-engineering, and after development, find what a change added beyond the plan.
 

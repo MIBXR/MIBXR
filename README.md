@@ -48,13 +48,13 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 
 **[Web Atlas · 网页设计参考库](https://github.com/MIBXR/web-atlas)**
 
-38 个真实网站与经典风格案例、138 个可组合设计巧思与 9 项内容素材，涵盖品牌与文化研究、8 种经典设计语言和示范作品，覆盖版式、交互、页面动效与声音。每个条目收录真实来源、设计约束、可复用 Prompt 和可交互 Demo；巧思可跨案例组合，组件、字体、Shader 等素材可以先试用再取材。
+39 个真实网站与经典风格案例、142 个可组合设计巧思与 9 项内容素材，涵盖品牌与文化研究、8 种经典设计语言和示范作品，覆盖版式、交互、页面动效与声音。每个条目收录真实来源、设计约束、可复用 Prompt 和可交互 Demo；巧思可跨案例组合，组件、字体、Shader 等素材可以先试用再取材。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1a3ab67d23f0dec777c3acaeed1689c18ee01391/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1a3ab67d23f0dec777c3acaeed1689c18ee01391/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/1a3ab67d23f0dec777c3acaeed1689c18ee01391/previews/cases/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
+<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
 </tr>
 </table>
 
@@ -62,13 +62,13 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 
 **[Motion Atlas · 影像与操作台参考库](https://github.com/MIBXR/motion-atlas)**
 
-收录按时间线播放的影像视频、交互操作台与展示台：19 个案例、89 个巧思与 4 个素材，拆解镜头、节拍、转场与声音，附节拍表、可复用 Prompt 和可逐帧渲染成视频的 Demo。
+收录按时间线播放的影像视频、交互操作台与展示台：68 个案例、171 个巧思与 5 个素材，按 7 类画面风格整理，其中 50 个复刻自 lemo-opuscar 的代码影片风格。拆解镜头、节拍、转场与声音，附节拍表、可复用 Prompt 和可逐帧渲染成视频的 Demo。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/bf1b03e63495ba20abe9be5fe4de9350dd55b202/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/bf1b03e63495ba20abe9be5fe4de9350dd55b202/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/ink-press"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/bf1b03e63495ba20abe9be5fe4de9350dd55b202/previews/cases/ink-press.jpg" alt="Ink Press · 纸墨宣传片" width="280"></a><br><sub>Ink Press · 纸墨宣传片</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/lemo-watercolor.jpg" alt="跟着雨走 · 水彩笔刷" width="280"></a><br><sub>跟着雨走 · 水彩笔刷</sub></td>
 </tr>
 </table>
 
@@ -79,7 +79,7 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 **[MIBXR Skills](https://github.com/MIBXR/mibxr-skills)**
 
 - [web-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/web-atlas/SKILL.md)：剖析网站需求，从 Web Atlas 选择并组合案例、巧思与素材，给出有差异的对照方案，取得源码后实现页面。
-- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md)：为片头、宣传片、数据短片和交互操作台剖析需求，从 Motion Atlas 取材，用关键帧条对照方向，实现后逐帧出片。
+- [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md)：为片头、宣传片、数据短片和交互操作台剖析需求，从 Motion Atlas 按画面风格、用途与渲染技术取材，用关键帧条对照方向，实现后逐帧出片。
 - [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md)：从桌宠制作、动画修复到展示网站与 Git 交付。
 - [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md)：找出 Agent 配置里诱发过度设计的写法，开发完成后找出改动里超出计划的部分。
 
