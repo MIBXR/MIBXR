@@ -27,19 +27,19 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 <h3 align="center">铃鹿的小小世界<br>Suzuka Pets</h3>
 <p align="center">胜负服全身与运动服半身铃鹿<br>九种动作，十六方向注视。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="胜负服全身铃鹿挥手预览" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="运动服半身铃鹿挥手预览" width="110"></a></p>
-<p align="center"><a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">源码与素材</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">下载</a></p>
+<p align="center"><a href="https://suzuka-pets.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">源码与素材</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">下载</a></p>
 </td>
 <td width="280" valign="top" align="center">
 <h3 align="center">响与时<br>Blue Archive 桌宠收藏</h3>
 <p align="center">拉拉队响与兔女郎时，附专页<br>九种动作，十六方向注视。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="拉拉队响挥手预览" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="兔女郎时比 V 预览" width="110"></a></p>
-<p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">源码与素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">下载</a></p>
+<p align="center"><a href="https://blue-archive-pets.mibxranime.chatgpt.site">网站 ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">源码与素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">下载</a></p>
 </td>
 <td width="280" valign="top" align="center">
 <h3 align="center">好女孩<br>若叶睦像素桌宠</h3>
 <p align="center">黄瓜主题像素小睦，可玩桌面<br>九种动作，十六方向注视。</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="若叶睦举瓜招手，气泡写着好女孩？" width="110"></a></p>
-<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">网站</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">源码与素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">下载 v1.0</a></p>
+<p align="center"><a href="https://wakaba-mutsumi-pets.mibxranime.chatgpt.site">网站</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">源码与素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">下载 v1.0</a></p>
 </td>
 </tr>
 </table>
@@ -52,13 +52,13 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/cases/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
 </tr>
 </table>
 
-[在线体验 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas) · [巧思库](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [素材库](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [设计实验室](https://mibxr-design-atlas.mibxranime.chatgpt.site/lab.html) · [文档中心](https://mibxr-design-atlas.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://web-atlas.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas) · [巧思库](https://web-atlas.mibxranime.chatgpt.site/patterns.html) · [素材库](https://web-atlas.mibxranime.chatgpt.site/materials.html) · [设计实验室](https://web-atlas.mibxranime.chatgpt.site/lab.html) · [文档中心](https://web-atlas.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://web-atlas.mibxranime.chatgpt.site/agent.html)
 
 **[Motion Atlas · 影像与操作台参考库](https://github.com/MIBXR/motion-atlas)**
 

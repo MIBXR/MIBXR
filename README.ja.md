@@ -27,19 +27,19 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 <h3 align="center">スズカの小さな世界 · Suzuka Pets</h3>
 <p align="center">勝負服とジャージのスズカ。<br>9種類の動き、16方向の視線。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="勝負服の全身サイレンススズカが手を振るプレビュー" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="ジャージ姿の上半身サイレンススズカが手を振るプレビュー" width="110"></a></p>
-<p align="center"><a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">サイト ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">ダウンロード</a></p>
+<p align="center"><a href="https://suzuka-pets.mibxranime.chatgpt.site">サイト ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">ダウンロード</a></p>
 </td>
 <td width="280" valign="top" align="center">
 <h3 align="center">ヒビキとトキ · Blue Archive デスクトップペット集</h3>
 <p align="center">チア姿のヒビキとバニーのトキ。<br>9種類の動き、16方向の視線。</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="チアリーダー姿の猫塚ヒビキが手を振るプレビュー" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="バニー姿の飛鳥馬トキがピースするプレビュー" width="110"></a></p>
-<p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">サイト ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">ダウンロード</a></p>
+<p align="center"><a href="https://blue-archive-pets.mibxranime.chatgpt.site">サイト ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">ダウンロード</a></p>
 </td>
 <td width="280" valign="top" align="center">
 <h3 align="center">「いい子」・若葉睦のピクセルペット</h3>
 <p align="center">ピクセルの睦と遊べるデスク。<br>9種類の動き、16方向の視線。</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="キュウリを振って挨拶する若葉睦。「好女孩？」の吹き出し付き" width="110"></a></p>
-<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">サイト</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">v1.0 をダウンロード</a></p>
+<p align="center"><a href="https://wakaba-mutsumi-pets.mibxranime.chatgpt.site">サイト</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">ソースコード・素材</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">v1.0 をダウンロード</a></p>
 </td>
 </tr>
 </table>
@@ -52,13 +52,13 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="エンドフィールド · 工業アーカイブ" width="280"></a><br><sub>エンドフィールド · 工業アーカイブ</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="デジタル敦煌 · 文化遺産" width="280"></a><br><sub>デジタル敦煌 · 文化遺産</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="エンドフィールド · 工業アーカイブ" width="280"></a><br><sub>エンドフィールド · 工業アーカイブ</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="デジタル敦煌 · 文化遺産" width="280"></a><br><sub>デジタル敦煌 · 文化遺産</sub></td>
 </tr>
 </table>
 
-[サイトを体験 ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/web-atlas) · [アイデア集](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [素材集](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [デザイン実験室](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [ドキュメントセンター](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent ワークフロー](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[サイトを体験 ↗](https://web-atlas.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/web-atlas) · [アイデア集](https://web-atlas.mibxranime.chatgpt.site/patterns.html) · [素材集](https://web-atlas.mibxranime.chatgpt.site/materials.html) · [デザイン実験室](https://web-atlas.mibxranime.chatgpt.site/fundamentals.html) · [ドキュメントセンター](https://web-atlas.mibxranime.chatgpt.site/document.html) · [Agent ワークフロー](https://web-atlas.mibxranime.chatgpt.site/agent.html)
 
 **[Motion Atlas · 映像とコンソールの参考集](https://github.com/MIBXR/motion-atlas)**
 
