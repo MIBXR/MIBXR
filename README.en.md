@@ -27,19 +27,19 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 <h3 align="center">Suzuka's Little World · Suzuka Pets</h3>
 <p align="center">Racing outfit &amp; tracksuit Suzuka.<br>9 animations, 16-way gaze.</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-race-outfit-fullbody-handdrawn/package/previews/waving.gif" alt="Waving preview of full-body Suzuka in her racing outfit" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/suzuka-pets/main/pets/suzuka-tracksuit-halfbody-handdrawn/package/previews/waving.gif" alt="Waving preview of half-body Suzuka in a tracksuit" width="110"></a></p>
-<p align="center"><a href="https://suzuka-pets-gallery.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">Downloads</a></p>
+<p align="center"><a href="https://suzuka-pets.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/suzuka-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/suzuka-pets/releases">Downloads</a></p>
 </td>
 <td width="280" valign="top" align="center">
 <h3 align="center">Hibiki & Toki · Blue Archive Pet Collection</h3>
 <p align="center">Cheerleader Hibiki &amp; Bunny Toki.<br>9 animations, 16-way gaze.</p>
 <p align="center"><a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/hibiki-cheerleader-fullbody-handdrawn/package/previews/waving.gif" alt="Waving preview of Cheerleader Hibiki" width="110"></a> <a href="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif"><img src="https://raw.githubusercontent.com/MIBXR/blue-archive-pets/main/pets/toki-bunny-fullbody-handdrawn/package/previews/states/waving.gif" alt="V-sign preview of Bunny Toki" width="110"></a></p>
-<p align="center"><a href="https://blue-archive-desktop-companions.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">Downloads</a></p>
+<p align="center"><a href="https://blue-archive-pets.mibxranime.chatgpt.site">Website ↗</a> · <a href="https://github.com/MIBXR/blue-archive-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/blue-archive-pets/releases">Downloads</a></p>
 </td>
 <td width="280" valign="top" align="center">
 <h3 align="center">Good Girl · Wakaba Mutsumi Pixel Pet</h3>
 <p align="center">Pixel Mutsumi, playable desktop.<br>9 animations, 16-way gaze.</p>
 <p align="center"><a href="https://github.com/MIBXR/wakaba-mutsumi-pets"><img src="https://raw.githubusercontent.com/MIBXR/wakaba-mutsumi-pets/v1.0/pets/wakaba-mutsumi-good-girl-pixel/package/previews/waving.gif" alt="Mutsumi waves a cucumber beside the Good Girl? speech bubble" width="110"></a></p>
-<p align="center"><a href="https://mutsumi-pixel-desktop.mibxranime.chatgpt.site">Website</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">Download v1.0</a></p>
+<p align="center"><a href="https://wakaba-mutsumi-pets.mibxranime.chatgpt.site">Website</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets">Source & Assets</a> · <a href="https://github.com/MIBXR/wakaba-mutsumi-pets/releases/tag/v1.0">Download v1.0</a></p>
 </td>
 </tr>
 </table>
@@ -52,13 +52,13 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
-<td width="33%" align="center"><a href="https://mibxr-design-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
 </tr>
 </table>
 
-[Explore the Website ↗](https://mibxr-design-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas) · [Pattern Library](https://mibxr-design-atlas.mibxranime.chatgpt.site/patterns.html) · [Materials](https://mibxr-design-atlas.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://mibxr-design-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Document Center](https://mibxr-design-atlas.mibxranime.chatgpt.site/document.html) · [Agent Workflow](https://mibxr-design-atlas.mibxranime.chatgpt.site/agent.html)
+[Explore the Website ↗](https://web-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas) · [Pattern Library](https://web-atlas.mibxranime.chatgpt.site/patterns.html) · [Materials](https://web-atlas.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://web-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Document Center](https://web-atlas.mibxranime.chatgpt.site/document.html) · [Agent Workflow](https://web-atlas.mibxranime.chatgpt.site/agent.html)
 
 **[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas)**
 
