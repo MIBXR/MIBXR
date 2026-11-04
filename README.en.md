@@ -48,7 +48,7 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 **[Web Atlas · Web Design Reference Library](https://github.com/MIBXR/web-atlas)**
 
-39 cases from real websites and classic styles, 142 composable design patterns, and 9 content materials, spanning brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo; patterns combine across cases, and materials such as components, fonts, and shaders can be tried before you take them.
+39 cases from real websites and classic styles, 142 composable design patterns, and 9 content materials. The library covers brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo. Patterns can be combined across cases, and materials such as components, fonts, and shaders can be tried before use.
 
 <table>
 <tr>
@@ -62,7 +62,7 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 **[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas)**
 
-Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 patterns, and 5 resources, organized into 7 visual styles, including 50 code-made film styles replicated from lemo-opuscar. They break down camera, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that render frame by frame to video.
+Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 patterns, and 5 resources, organized into 7 visual styles, including 50 code-based film styles recreated from lemo-opuscar. The cases break down camerawork, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that can be rendered frame by frame as video.
 
 <table>
 <tr>
@@ -80,8 +80,8 @@ Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 
 
 - [web-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/web-atlas/SKILL.md): Work out what a website needs, pick and combine cases, patterns, and materials from Web Atlas, compare distinct directions, then build the page from the retrieved source.
 - [motion-atlas](https://github.com/MIBXR/mibxr-skills/blob/main/skills/motion-atlas/SKILL.md): Shape openers, promos, data shorts, and interactive consoles with Motion Atlas, searchable by visual style, purpose, and rendering tech; compare directions as keyframe strips, then build and render frame by frame.
-- [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): From desktop pet creation and animation repair to showcase sites and sharing projects through Git.
-- [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md): Find agent settings that invite over-engineering, and after development, find what a change added beyond the plan.
+- [desktop-pet-workflow](https://github.com/MIBXR/mibxr-skills/blob/main/skills/desktop-pet-workflow/SKILL.md): Create desktop pets, repair animations, build showcase sites, and share projects through Git.
+- [lean-audit](https://github.com/MIBXR/mibxr-skills/blob/main/skills/lean-audit/SKILL.md): Find agent settings that invite over-engineering and, after development, identify changes that go beyond the plan.
 
 ## Course Projects
 
