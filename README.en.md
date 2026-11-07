@@ -46,33 +46,33 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 ## Design References
 
-**[Web Atlas · Web Design Reference Library](https://github.com/MIBXR/web-atlas)**
+**[Web Atlas · Web Design Reference Library](https://github.com/MIBXR/web-atlas-next)**
 
 39 cases from real websites and classic styles, 142 composable design patterns, and 9 content materials. The library covers brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo. Patterns can be combined across cases, and materials such as components, fonts, and shaders can be tried before use.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
-<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
-<td width="33%" align="center"><a href="https://web-atlas.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas/8b590faa2164369a8ae293849bbc9b0b12846416/previews/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
 </tr>
 </table>
 
-[Explore the Website ↗](https://web-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas) · [Pattern Library](https://web-atlas.mibxranime.chatgpt.site/patterns.html) · [Materials](https://web-atlas.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://web-atlas.mibxranime.chatgpt.site/fundamentals.html) · [Document Center](https://web-atlas.mibxranime.chatgpt.site/document.html) · [Agent Workflow](https://web-atlas.mibxranime.chatgpt.site/agent.html)
+[Explore the Website ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas-next) · [Pattern Library](https://web-atlas-library.mibxranime.chatgpt.site/patterns.html) · [Materials](https://web-atlas-library.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://web-atlas-library.mibxranime.chatgpt.site/lab.html) · [Document Center](https://web-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://web-atlas-library.mibxranime.chatgpt.site/agent.html)
 
-**[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas)**
+**[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas-next)**
 
 Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 patterns, and 5 resources, organized into 7 visual styles, including 50 code-based film styles recreated from lemo-opuscar. The cases break down camerawork, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that can be rendered frame by frame as video.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/map-pilgrimage.jpg" alt="Map Pilgrimage · Travel Film" width="280"></a><br><sub>Map Pilgrimage · Travel Film</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/archive-os.jpg" alt="Rhine Lab · Archive Terminal" width="280"></a><br><sub>Rhine Lab · Archive Terminal</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas/503b1a542cf63fc003aeff15fdc8fd64ef411f54/previews/cases/lemo-watercolor.jpg" alt="Follow the Rain · Watercolor Brush" width="280"></a><br><sub>Follow the Rain · Watercolor Brush</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/map-pilgrimage.jpg" alt="Map Pilgrimage · Travel Film" width="280"></a><br><sub>Map Pilgrimage · Travel Film</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/archive-os.jpg" alt="Rhine Lab · Archive Terminal" width="280"></a><br><sub>Rhine Lab · Archive Terminal</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/lemo-watercolor.jpg" alt="Follow the Rain · Watercolor Brush" width="280"></a><br><sub>Follow the Rain · Watercolor Brush</sub></td>
 </tr>
 </table>
 
-[Explore the Website ↗](https://motion-atlas.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/motion-atlas) · [Pattern Library](https://motion-atlas.mibxranime.chatgpt.site/patterns.html) · [Resources](https://motion-atlas.mibxranime.chatgpt.site/resources.html) · [Rhythm Lab](https://motion-atlas.mibxranime.chatgpt.site/lab.html) · [Document Center](https://motion-atlas.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://motion-atlas.mibxranime.chatgpt.site/agent.html)
+[Explore the Website ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/motion-atlas-next) · [Pattern Library](https://motion-atlas-library.mibxranime.chatgpt.site/patterns.html) · [Resources](https://motion-atlas-library.mibxranime.chatgpt.site/materials.html) · [Rhythm Lab](https://motion-atlas-library.mibxranime.chatgpt.site/lab.html) · [Document Center](https://motion-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://motion-atlas-library.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
