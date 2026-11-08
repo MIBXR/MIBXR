@@ -48,6 +48,8 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 
 **[Web Atlas · Web Design Reference Library](https://github.com/MIBXR/web-atlas-next)**
 
+[Explore the Website ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas-next) · [Pattern Library](https://web-atlas-library.mibxranime.chatgpt.site/patterns.html) · [Materials](https://web-atlas-library.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://web-atlas-library.mibxranime.chatgpt.site/lab.html) · [Document Center](https://web-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://web-atlas-library.mibxranime.chatgpt.site/agent.html)
+
 39 cases from real websites and classic styles, 142 composable design patterns, and 9 content materials. The library covers brand and culture studies, 8 classic design languages, and showcase works across layout, interaction, page motion, and sound. Every entry includes real sources, design constraints, reusable prompts, and an interactive demo. Patterns can be combined across cases, and materials such as components, fonts, and shaders can be tried before use.
 
 <table>
@@ -58,9 +60,9 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 </tr>
 </table>
 
-[Explore the Website ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/web-atlas-next) · [Pattern Library](https://web-atlas-library.mibxranime.chatgpt.site/patterns.html) · [Materials](https://web-atlas-library.mibxranime.chatgpt.site/materials.html) · [Design Lab](https://web-atlas-library.mibxranime.chatgpt.site/lab.html) · [Document Center](https://web-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://web-atlas-library.mibxranime.chatgpt.site/agent.html)
-
 **[Motion Atlas · Film & Console Reference Library](https://github.com/MIBXR/motion-atlas-next)**
+
+[Explore the Website ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/motion-atlas-next) · [Pattern Library](https://motion-atlas-library.mibxranime.chatgpt.site/patterns.html) · [Resources](https://motion-atlas-library.mibxranime.chatgpt.site/materials.html) · [Rhythm Lab](https://motion-atlas-library.mibxranime.chatgpt.site/lab.html) · [Document Center](https://motion-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://motion-atlas-library.mibxranime.chatgpt.site/agent.html)
 
 Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 patterns, and 5 resources, organized into 7 visual styles, including 50 code-based film styles recreated from lemo-opuscar. The cases break down camerawork, beats, transitions, and sound, with beat sheets, reusable prompts, and demos that can be rendered frame by frame as video.
 
@@ -71,8 +73,6 @@ Timeline-driven films, interactive consoles, and showcase stages: 68 cases, 171 
 <td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/lemo-watercolor.jpg" alt="Follow the Rain · Watercolor Brush" width="280"></a><br><sub>Follow the Rain · Watercolor Brush</sub></td>
 </tr>
 </table>
-
-[Explore the Website ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [Source & Cases](https://github.com/MIBXR/motion-atlas-next) · [Pattern Library](https://motion-atlas-library.mibxranime.chatgpt.site/patterns.html) · [Resources](https://motion-atlas-library.mibxranime.chatgpt.site/materials.html) · [Rhythm Lab](https://motion-atlas-library.mibxranime.chatgpt.site/lab.html) · [Document Center](https://motion-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent Workflow](https://motion-atlas-library.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
