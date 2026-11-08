@@ -48,6 +48,8 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 
 **[Web Atlas · Web デザイン参考集](https://github.com/MIBXR/web-atlas-next)**
 
+[サイトを体験 ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/web-atlas-next) · [アイデア集](https://web-atlas-library.mibxranime.chatgpt.site/patterns.html) · [素材集](https://web-atlas-library.mibxranime.chatgpt.site/materials.html) · [デザイン実験室](https://web-atlas-library.mibxranime.chatgpt.site/lab.html) · [ドキュメントセンター](https://web-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent ワークフロー](https://web-atlas-library.mibxranime.chatgpt.site/agent.html)
+
 実在のサイトと定番スタイルの事例 39 件、組み合わせ可能なデザインアイデア 142 件、コンテンツ素材 9 件。ブランド・文化の研究、8 種類の定番デザイン言語、作例を収録し、レイアウト・インタラクション・ページのモーション・サウンドを扱います。各項目には実際の出典、デザインの制約、再利用できるプロンプト、操作できるデモを収録しています。アイデアは事例を横断して組み合わせられ、コンポーネント・フォント・シェーダーなどの素材は試してから取り込めます。
 
 <table>
@@ -58,9 +60,9 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 </tr>
 </table>
 
-[サイトを体験 ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/web-atlas-next) · [アイデア集](https://web-atlas-library.mibxranime.chatgpt.site/patterns.html) · [素材集](https://web-atlas-library.mibxranime.chatgpt.site/materials.html) · [デザイン実験室](https://web-atlas-library.mibxranime.chatgpt.site/lab.html) · [ドキュメントセンター](https://web-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent ワークフロー](https://web-atlas-library.mibxranime.chatgpt.site/agent.html)
-
 **[Motion Atlas · 映像とコンソールの参考集](https://github.com/MIBXR/motion-atlas-next)**
+
+[サイトを体験 ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/motion-atlas-next) · [アイデア集](https://motion-atlas-library.mibxranime.chatgpt.site/patterns.html) · [リソース集](https://motion-atlas-library.mibxranime.chatgpt.site/materials.html) · [リズム実験室](https://motion-atlas-library.mibxranime.chatgpt.site/lab.html) · [ドキュメントセンター](https://motion-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent ワークフロー](https://motion-atlas-library.mibxranime.chatgpt.site/agent.html)
 
 タイムラインで再生される映像、インタラクティブなコンソールと展示台を収録。事例 68 件、アイデア 171 件、リソース 5 件を 7 つの画面スタイルで整理し、うち 50 件は lemo-opuscar がコードで制作した映像のスタイルを再現したものです。カメラワーク・ビート・トランジション・サウンドを分析し、ビートシート、再利用できるプロンプト、1 コマずつレンダリングして動画にできるデモを添えています。
 
@@ -71,8 +73,6 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 <td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/lemo-watercolor.jpg" alt="雨を追って · 水彩ブラシ" width="280"></a><br><sub>雨を追って · 水彩ブラシ</sub></td>
 </tr>
 </table>
-
-[サイトを体験 ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [ソースコード・事例](https://github.com/MIBXR/motion-atlas-next) · [アイデア集](https://motion-atlas-library.mibxranime.chatgpt.site/patterns.html) · [リソース集](https://motion-atlas-library.mibxranime.chatgpt.site/materials.html) · [リズム実験室](https://motion-atlas-library.mibxranime.chatgpt.site/lab.html) · [ドキュメントセンター](https://motion-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent ワークフロー](https://motion-atlas-library.mibxranime.chatgpt.site/agent.html)
 
 ## Skills
 
