@@ -48,29 +48,29 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 
 **[Web Atlas · 网页设计参考库](https://github.com/MIBXR/web-atlas-next)**
 
-[在线体验 ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas-next) · [巧思库](https://web-atlas-library.mibxranime.chatgpt.site/patterns.html) · [素材库](https://web-atlas-library.mibxranime.chatgpt.site/materials.html) · [设计实验室](https://web-atlas-library.mibxranime.chatgpt.site/lab.html) · [文档中心](https://web-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://web-atlas-library.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://web-atlas-library.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/web-atlas-next) · [巧思库](https://web-atlas-library.mibxranime.chatgpt.site/#/patterns) · [素材库](https://web-atlas-library.mibxranime.chatgpt.site/#/materials) · [设计实验室](https://web-atlas-library.mibxranime.chatgpt.site/#/tools/lab) · [文档中心](https://web-atlas-library.mibxranime.chatgpt.site/#/docs) · [Agent 工作流](https://web-atlas-library.mibxranime.chatgpt.site/#/tools/workflow)
 
 收录 39 个真实网站与经典风格案例、142 个可组合设计巧思与 9 项内容素材。内容涵盖品牌与文化研究、8 种经典设计语言和示范作品，涉及版式、交互、页面动效与声音。每个条目收录真实来源、设计约束、可复用 Prompt 和可交互 Demo；巧思可跨案例组合，组件、字体、Shader 等素材可以先试用再取材。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
-<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/#/cases/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/#/cases/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/#/cases/rijksmuseum-art"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/rijksmuseum-art.jpg" alt="Rijksmuseum · 艺术文化" width="280"></a><br><sub>Rijksmuseum · 艺术文化</sub></td>
 </tr>
 </table>
 
 **[Motion Atlas · 影像与操作台参考库](https://github.com/MIBXR/motion-atlas-next)**
 
-[在线体验 ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/motion-atlas-next) · [巧思库](https://motion-atlas-library.mibxranime.chatgpt.site/patterns.html) · [素材库](https://motion-atlas-library.mibxranime.chatgpt.site/materials.html) · [节奏实验室](https://motion-atlas-library.mibxranime.chatgpt.site/lab.html) · [文档中心](https://motion-atlas-library.mibxranime.chatgpt.site/docs.html) · [Agent 工作流](https://motion-atlas-library.mibxranime.chatgpt.site/agent.html)
+[在线体验 ↗](https://motion-atlas-library.mibxranime.chatgpt.site/) · [源码与案例](https://github.com/MIBXR/motion-atlas-next) · [巧思库](https://motion-atlas-library.mibxranime.chatgpt.site/#/patterns) · [素材库](https://motion-atlas-library.mibxranime.chatgpt.site/#/materials) · [节奏实验室](https://motion-atlas-library.mibxranime.chatgpt.site/#/tools/rhythm-lab) · [文档中心](https://motion-atlas-library.mibxranime.chatgpt.site/#/docs) · [Agent 工作流](https://motion-atlas-library.mibxranime.chatgpt.site/#/tools/workflow)
 
 收录按时间线播放的影像、交互操作台与展示台：68 个案例、171 个巧思与 5 个素材，按 7 类画面风格整理，其中 50 个复刻自 lemo-opuscar 的代码影片风格。拆解镜头、节拍、转场与声音，附节拍表、可复用 Prompt 和可逐帧渲染成视频的 Demo。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
-<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/cases.html#case/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/lemo-watercolor.jpg" alt="跟着雨走 · 水彩笔刷" width="280"></a><br><sub>跟着雨走 · 水彩笔刷</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/#/cases/map-pilgrimage"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/map-pilgrimage.jpg" alt="地图巡礼 · 旅行影像" width="280"></a><br><sub>地图巡礼 · 旅行影像</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/#/cases/archive-os"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/archive-os.jpg" alt="莱茵生命 · 档案终端" width="280"></a><br><sub>莱茵生命 · 档案终端</sub></td>
+<td width="33%" align="center"><a href="https://motion-atlas-library.mibxranime.chatgpt.site/#/cases/lemo-watercolor"><img src="https://raw.githubusercontent.com/MIBXR/motion-atlas-next/a97ed533f5dacd65ebbbdfa9f1f71c3e3fe834da/previews/cases/lemo-watercolor.jpg" alt="跟着雨走 · 水彩笔刷" width="280"></a><br><sub>跟着雨走 · 水彩笔刷</sub></td>
 </tr>
 </table>
 
