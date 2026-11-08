@@ -56,7 +56,7 @@ IJCAI 2022 · CCF A · Third author · Image aesthetics assessment
 <tr>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · Product Interaction" width="280"></a><br><sub>ChatGPT · Product Interaction</sub></td>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/endfield-industrial.jpg" alt="Endfield · Industrial Archive" width="280"></a><br><sub>Endfield · Industrial Archive</sub></td>
-<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/digital-dunhuang.jpg" alt="Digital Dunhuang · Cultural Heritage" width="280"></a><br><sub>Digital Dunhuang · Cultural Heritage</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/#/cases/rijksmuseum-art"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/rijksmuseum-art.jpg" alt="Rijksmuseum · Art &amp; Culture" width="280"></a><br><sub>Rijksmuseum · Art &amp; Culture</sub></td>
 </tr>
 </table>
 

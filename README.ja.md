@@ -56,7 +56,7 @@ IJCAI 2022 · CCF A類 · 第3著者 · 画像の美的評価
 <tr>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 製品のインタラクション" width="280"></a><br><sub>ChatGPT · 製品のインタラクション</sub></td>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/endfield-industrial.jpg" alt="エンドフィールド · 工業アーカイブ" width="280"></a><br><sub>エンドフィールド · 工業アーカイブ</sub></td>
-<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/digital-dunhuang.jpg" alt="デジタル敦煌 · 文化遺産" width="280"></a><br><sub>デジタル敦煌 · 文化遺産</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/#/cases/rijksmuseum-art"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/rijksmuseum-art.jpg" alt="Rijksmuseum · 芸術文化" width="280"></a><br><sub>Rijksmuseum · 芸術文化</sub></td>
 </tr>
 </table>
 

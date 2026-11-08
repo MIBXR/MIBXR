@@ -56,7 +56,7 @@ IJCAI 2022 · CCF A 类 · 第三作者 · 图像美学评估
 <tr>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/chatgpt-platform"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/chatgpt-platform.jpg" alt="ChatGPT · 产品交互" width="280"></a><br><sub>ChatGPT · 产品交互</sub></td>
 <td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/endfield-industrial"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/endfield-industrial.jpg" alt="终末地 · 工业档案" width="280"></a><br><sub>终末地 · 工业档案</sub></td>
-<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/cases.html#style/digital-dunhuang"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/digital-dunhuang.jpg" alt="数字敦煌 · 文化遗产" width="280"></a><br><sub>数字敦煌 · 文化遗产</sub></td>
+<td width="33%" align="center"><a href="https://web-atlas-library.mibxranime.chatgpt.site/#/cases/rijksmuseum-art"><img src="https://raw.githubusercontent.com/MIBXR/web-atlas-next/d741bd327f4c2960094ee8a3ba7f7d9b2225cec8/previews/cases/rijksmuseum-art.jpg" alt="Rijksmuseum · 艺术文化" width="280"></a><br><sub>Rijksmuseum · 艺术文化</sub></td>
 </tr>
 </table>
 
